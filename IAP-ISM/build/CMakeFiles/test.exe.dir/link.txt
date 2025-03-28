@@ -1,0 +1,1 @@
+/public/software/compiler/intel/2021.3.0/bin/intel64/ifort CMakeFiles/test.exe.dir/src/test.F90.o CMakeFiles/test.exe.dir/src/constant.F90.o CMakeFiles/test.exe.dir/src/netcdf_io.F90.o -o test.exe  /public/software/mathlib/netcdf/intel/4.7.4//lib/libnetcdff.so 

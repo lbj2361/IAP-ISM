@@ -1,0 +1,3 @@
+/data2/share/hezhan/model/ice_sheet_model/myism/build/CMakeFiles/rebuild_cache.dir
+/data2/share/hezhan/model/ice_sheet_model/myism/build/CMakeFiles/edit_cache.dir
+/data2/share/hezhan/model/ice_sheet_model/myism/build/CMakeFiles/test.exe.dir
